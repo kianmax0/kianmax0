@@ -43,21 +43,3 @@ space and time. *Science China Life Sciences*, 68, 3450–3465.
 [DOI](https://doi.org/10.1007/s11427-025-3158-6) · Review · \*Equal contribution
 
 <!-- Preprints and manuscripts under review go here. -->
-
-## News
-
-- **Sep 2026** — Released [`learning-rule-benchmark`](https://github.com/kianmax0/learning-rule-benchmark),
-  a reproducible pipeline that scores the biological plausibility of learning rules.
-- **Sep 2026** — Opened [`active-predictive-coding`](https://github.com/kianmax0/active-predictive-coding),
-  a working space for prediction → inference → error → action loops.
-- **Sep 2026** — [`zotero-codex-reader`](https://github.com/kianmax0/zotero-codex-reader)
-  preview archive published.
-- **Jul 2026** — Started as a research intern in the Yusi Chen Lab, Institute of
-  Neuroscience, CAS, building RNN-based social agents and comparing their hidden-unit
-  dynamics with MPN population signatures.
-- **Jul 2026** — Released [`social-homeostasis-pomdp`](https://github.com/kianmax0/social-homeostasis-pomdp),
-  supervised RNN models of isolation–reunion behavior with a partner-gated action channel.
-- **Jul 2026** — Published [`cn-roadmap`](https://kianmax0.github.io/cn-roadmap/), a
-  bilingual self-study roadmap for computational neuroscience.
-- **Jan 2026** — Joined the Ding Liu Lab at Westlake University, working on
-  experience-dependent changes in MPN populations across isolation–reunion.
