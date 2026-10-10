@@ -43,3 +43,11 @@ space and time. *Science China Life Sciences*, 68, 3450–3465.
 [DOI](https://doi.org/10.1007/s11427-025-3158-6) · Review · \*Equal contribution
 
 <!-- Preprints and manuscripts under review go here. -->
+
+## Selected Honors and Awards
+
+- **2026** — National Scholarship (China)
+- **2025** — Zhejiang Provincial Government Scholarship
+- **2025** — Westlake University Dean's Award
+- **2024** — iGEM International Silver Medal
+- **2024** — Westlake University Third-Class Scholarship
