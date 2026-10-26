@@ -1,8 +1,8 @@
 # Kun Zhao
 
-**Computational & Systems Neuroscience · NeuroAI**
+**Computational Neuroscience · NeuroAI**
 
-Westlake University · Hangzhou, China
+Westlake University · Hangzhou, China | Institute of Neuroscience, Shanghai China
 
 [Website](https://kuhnkuhn.me) · [Google Scholar](https://scholar.google.com/citations?user=MFsbreQAAAAJ&hl=en) · [zhaokun@westlake.edu.cn](mailto:zhaokun@westlake.edu.cn)
 
