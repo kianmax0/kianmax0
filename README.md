@@ -48,6 +48,6 @@ space and time. *Science China Life Sciences*, 68, 3450–3465.
 
 - **2026** — China National Scholarship
 - **2025** — Zhejiang Provincial Government Scholarship
-- **2025** — Westlake University Dean's Award
+- **2025, 2026** — Westlake University Dean's Award
 - **2024** — iGEM International Silver Medal
 - **2024** — Westlake University Third-Class Scholarship
